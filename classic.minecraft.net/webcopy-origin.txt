@@ -1,0 +1,28 @@
+Uri: https://classic.minecraft.net/
+File Name: D:\classic.minecraft.net\index.htm
+Content Type: text/html
+
+Uri: https://classic.minecraft.net/assets/css/style.css?88cd99d0e6cd24309df1
+File Name: D:\classic.minecraft.net\assets\css\style.css
+Content Type: text/css
+
+Uri: https://classic.minecraft.net/assets/fonts/minecraftfont.eot
+File Name: D:\classic.minecraft.net\assets\fonts\minecraftfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://classic.minecraft.net/assets/fonts/minecraftfont.ttf
+File Name: D:\classic.minecraft.net\assets\fonts\minecraftfont.ttf
+Content Type: font/ttf
+
+Uri: https://classic.minecraft.net/assets/fonts/minecraftfont.woff
+File Name: D:\classic.minecraft.net\assets\fonts\minecraftfont.woff
+Content Type: font/woff
+
+Uri: https://classic.minecraft.net/assets/js/app.js?88cd99d0e6cd24309df1
+File Name: D:\classic.minecraft.net\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://classic.minecraft.net/assets/textures/background.jpg
+File Name: D:\classic.minecraft.net\assets\textures\background.jpg
+Content Type: image/jpeg
+
